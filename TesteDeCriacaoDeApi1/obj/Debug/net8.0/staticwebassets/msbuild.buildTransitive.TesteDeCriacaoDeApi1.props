@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TesteDeCriacaoDeApi1.props" />
+</Project>
